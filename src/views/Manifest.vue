@@ -12,7 +12,7 @@
         </p>
 
         <div class="mt-10 flex flex-col sm:flex-row justify-center items-center gap-6">
-          <a href="https://example.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://discord.gg/JEMADUv3Zz" target="_blank" rel="noopener noreferrer"
              class="group relative px-8 py-3 bg-[#5865F2] hover:bg-[#4752C4] text-white rounded transition-all duration-300 shadow-[0_0_15px_rgba(88,101,242,0.3)] hover:shadow-[0_0_25px_rgba(88,101,242,0.6)] flex items-center gap-3">
             <svg class="w-6 h-6 fill-current" viewBox="0 0 127.14 96.36">
               <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1,105.25,105.25,0,0,0,32.19-16.14c2.64-27.38-4.51-51.11-18.9-72.15ZM42.68,65.33C38,65.33,34.2,61.14,34.2,56c0-5.12,3.75-9.31,8.48-9.31s8.53,4.19,8.48,9.31C51.16,61.14,47.41,65.33,42.68,65.33Zm41.78,0c-4.73,0-8.48-4.19-8.48-9.31s3.75-9.31,8.48-9.31,8.53,4.19,8.48,9.31C92.94,61.14,89.19,65.33,84.46,65.33Z"/>
@@ -20,7 +20,7 @@
             <span class="font-medium tracking-wide">Discord beitreten</span>
           </a>
 
-          <a href="https://example.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://forms.gle/qrz9gSTywmj6M82e9" target="_blank" rel="noopener noreferrer"
              class="group relative px-8 py-3 bg-gradient-to-r from-amber-700 to-amber-600 hover:from-amber-600 hover:to-amber-500 text-[#111317] rounded transition-all duration-300 shadow-[0_0_15px_rgba(217,119,6,0.2)] hover:shadow-[0_0_25px_rgba(217,119,6,0.5)] flex items-center gap-3">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path>
